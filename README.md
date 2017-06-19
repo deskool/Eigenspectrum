@@ -1,2 +1,3 @@
 # Eigenspectrum
-A Matlab implementation of the Eigenspectrum from Williamson et al. "Seizure prediction using EEG spatiotemporal correlation structure."
+A Matlab implementation of the Eigenspectrum feature described in Williamson et al. "Seizure prediction using EEG spatiotemporal correlation structure."
+
